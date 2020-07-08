@@ -8,13 +8,29 @@ menu: 关于
 permalink: /about/
 ---
 
-我是青冬，一枚后端开发。
 
-对万物保持敬畏之心。
+
+## 关于我
+
+我是青冬，也可以叫我冬青。
+
+野生开发程序员，对安全抱有兴趣。
+
+对万物保持敬畏。
+
+这里记录我学习思考的过程，
 
 以及感谢成长过程中遇到的每个人。
 
-## 联系
+
+
+## 点技能
+
+![image-20200708153502398](http://img.zhangqingdong.cn/image-20200708153502398.png)
+
+
+
+## 联系我
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
