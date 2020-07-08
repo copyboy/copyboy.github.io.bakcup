@@ -7,7 +7,7 @@ keywords: gitlab，git
 ---
 
 
-# GitLab 安装记录
+# GitLab搭建过程及基本使用
 
 ``` 系统配置
 系统： deepin 15.10.1
