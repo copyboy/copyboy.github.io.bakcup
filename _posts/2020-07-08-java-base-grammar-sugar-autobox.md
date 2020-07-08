@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 知识图谱 - Java基础 - 语法糖 - 自动拆装箱
-categories: 知识图谱
+categories: [知识图谱,Java基础]
 description: 语法糖 - 自动拆装箱
 keywords: 语法糖, 自动拆装箱
 ---
