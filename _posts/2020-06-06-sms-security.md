@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 安全 短信验证码
-categories: [security]
-description: 短信验证码恶意调用
-keywords: sms, 验证码
+title: 信息安全 - 短信验证码
+categories: 信息安全
+description: 短信验证码恶意调用及问题修复
+keywords: sms, 短信, 验证码
 ---
 
 ## 短信验证码安全

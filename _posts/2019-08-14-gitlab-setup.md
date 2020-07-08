@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 软件：gitlab
-categories: Blog
-description: GitLab搭建
+title: DevOps工具 - gitlab
+categories: DevOps工具
+description: GitLab搭建过程及基本使用
 keywords: gitlab，git
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 安全 越权访问
-categories: blog
-description: 越权访问漏洞修复
+title: 信息安全 - 越权访问
+categories: 信息安全
+description: 越权访问成因及修复
 keywords: security, bug
 ---
 
