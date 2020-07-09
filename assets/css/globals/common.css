@@ -393,9 +393,10 @@
 }
 
 .markdown-body blockquote {
-    padding: 0 15px;
-    color: #777;
-    border-left: 4px solid #ddd
+
+    border-left: 4px solid #62ca38!important;
+    background: #f8f8f8!important;
+    padding: 10px!important;
 }
 
 .markdown-body blockquote>:first-child {
