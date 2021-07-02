@@ -8,7 +8,7 @@ menu: 链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> 记录一些别人的博客地址
 
 {% for link in site.data.links %}
 * [{{ link.name }}]({{ link.url }})
