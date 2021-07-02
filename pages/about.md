@@ -26,7 +26,7 @@ permalink: /about/
 
 ## 点技能
 
-![技能树]({{ 'http://img.zhangqingdong.cn/image-20200708153502398.png' }})
+![技能树](//img.zhangqingdong.cn/image-20200708153502398.png)
 
 
 
